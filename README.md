@@ -58,7 +58,9 @@ python filefinder.py C:\Users\Pratiksha --name pratiksha
 
 <img width="1426" height="573" alt="Screenshot 2026-01-20 150438" src="https://github.com/user-attachments/assets/e6214da0-6c6e-4bd7-a0a3-0264ea55ac54" />
 
+
 2.Search by file extension:
 python filefinder.py C:\Users\Pratiksha --ext .pdf
+
 <img width="1616" height="565" alt="Screenshot 2026-01-20 150457" src="https://github.com/user-attachments/assets/532553a9-b628-44e7-8ceb-e72e3f4aaaa1" />
 
