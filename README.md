@@ -1,4 +1,4 @@
-# Personal File Search Utility
+<img width="1071" height="746" alt="image" src="https://github.com/user-attachments/assets/cc1f43f6-0073-4ddf-99e0-243dfd82b693" /># Personal File Search Utility
 
 ## a. Problem Being Solved
 
@@ -49,3 +49,7 @@ You can replace:
 
 The overall design focuses on correctness, clarity, and reliability rather than over-engineering.  
 The program can be easily extended in the future to support features such as file extension filters, file size filters, or result sorting.
+
+<img width="1426" height="573" alt="Screenshot 2026-01-20 150438" src="https://github.com/user-attachments/assets/e6214da0-6c6e-4bd7-a0a3-0264ea55ac54" />
+<img width="1616" height="565" alt="Screenshot 2026-01-20 150457" src="https://github.com/user-attachments/assets/532553a9-b628-44e7-8ceb-e72e3f4aaaa1" />
+
