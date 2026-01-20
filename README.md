@@ -1,5 +1,7 @@
 # Personal File Search Utility
 
+A simple Python command-line tool to search files by keyword across directories.
+
 ## a. Problem Being Solved
 
 On my system, I regularly save important files such as certificates, resumes, assignments, and scanned documents using my name “pratiksha” in the file name.  
