@@ -22,7 +22,6 @@ This utility allows me to quickly locate my personal files without manually navi
 Search for files containing "pratiksha":
 python filefinder.py C:\Users\Pratiksha --name pratiksha
 
-
 Search by file extension:
 python filefinder.py C:\Users\Pratiksha --ext .pdf
 
