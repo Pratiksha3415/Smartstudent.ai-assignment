@@ -1,4 +1,4 @@
-<img width="1071" height="746" alt="image" src="https://github.com/user-attachments/assets/cc1f43f6-0073-4ddf-99e0-243dfd82b693" /># Personal File Search Utility
+# Personal File Search Utility
 
 ## a. Problem Being Solved
 
